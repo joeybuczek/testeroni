@@ -1,0 +1,26 @@
+{
+  "name": "testeroni",
+  "version": "1.0.0",
+  "description": "Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeybuczek/testeroni.git"
+  },
+  "keywords": [
+    "testeroni"
+  ],
+  "author": "Joey Buczek <joeybuczek@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joeybuczek/testeroni/issues"
+  },
+  "homepage": "https://github.com/joeybuczek/testeroni#readme",
+  "devDependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
+}
