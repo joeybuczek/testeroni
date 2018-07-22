@@ -2,10 +2,9 @@ import React from 'react';
 
 const Testeroni = props => {
   return (
-    <div>
-      <h1>Testeroni</h1>
-      {props.children}
-    </div>
+    React.createElement('div', null, 
+      React.createElement('h1', {}, 'Testeroni')
+    )
   )
 }
 
